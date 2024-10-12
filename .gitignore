@@ -1,0 +1,30 @@
+# Системные файлы
+.DS_Store
+Thumbs.db
+
+# Каталоги PyInstaller
+/dist/
+build/
+__pycache__/
+
+# Лог-файлы
+*.log
+
+# Конфигурация PyInstaller
+*.spec
+
+# Виртуальные окружения
+venv/
+ENV/
+env/
+venv.bak/
+
+# Конфигурационные файлы
+config.yaml  # Можно исключить, если хотите, чтобы конфиг был в репозитории
+
+# PyCharm или другие IDE
+.idea/
+*.iml
+
+# Jupyter Notebook
+.ipynb_checkpoints/

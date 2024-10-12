@@ -1,0 +1,21 @@
+log_directory: "C:/dispatcher_in_out/logs"
+directories:
+  - source_directory: "C:/dispatcher_in_out/KNALOG/in"
+    destination_directory: "C:/dispatcher_in_out/KNALOG/out"
+    archive_directory: "C:/dispatcher_in_out/KNALOG/arch"
+  - source_directory: "C:/dispatcher_in_out/MJ/in"
+    destination_directory: "C:/dispatcher_in_out/MJ/out"
+    archive_directory: "C:/dispatcher_in_out/MJ/arch"
+#  - source_directory: "/path/to/source3"
+#    destination_directory: "/path/to/destination3"
+#    archive_directory: "/path/to/archive3"
+#  - source_directory: "/path/to/source4"
+#    destination_directory: "/path/to/destination4"
+#    archive_directory: "/path/to/archive4"
+#  - source_directory: "/path/to/source5"
+#    destination_directory: "/path/to/destination5"
+#    archive_directory: "/path/to/archive5"
+
+
+
+
